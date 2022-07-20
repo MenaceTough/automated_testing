@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: selenium.test.MainTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.804 s - in selenium.test.MainTest
